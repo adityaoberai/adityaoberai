@@ -6,7 +6,7 @@
 
 ### Experience 📈
 
-- 🤵 Interning at: [<img src="https://d2aj9sy12tbpym.cloudfront.net/javascripts/dist/assets/typo_logo-7f995bc8faf05bc72aad13c551d939ef.svg" alt="Progate" width="100px"/>](https://bit.ly/progate-intern-medium)
+- 🤵 Interning at: [<img src="https://d2aj9sy12tbpym.cloudfront.net/javascripts/dist/assets/typo_logo-7f995bc8faf05bc72aad13c551d939ef.svg" alt="Progate" width="100px"/>](https://progate.com)
 
 - 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com)](https://studentambassadors.microsoft.com) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/)
 
