@@ -1,4 +1,10 @@
-<img src="Assets/cover.png" alt="GitHub Cover" width="1920" height="auto">
+<p align="center">
+    <img src="Assets/Aditya.png" width="180">
+</p>
+
+<h2 style="text-align:center"> Hey there 👋 </h2>
+
+<h3 style="text-align:center"> I am Aditya Oberai (he/him)👦, a junior at Amity University🏫 and an student tech💻 and hackathon👨‍💻 community enthusiast💝 </h3>
 
 ---
 
