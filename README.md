@@ -1,6 +1,4 @@
-### Hey there 👋
-
-#### I am Aditya Oberai (he/him)👦, a junior at Amity University🏫 and an student tech💻 and hackathon👨‍💻 community enthusiast💝
+<img src="Assets/cover.png" alt="GitHub Cover" width="1920" height="auto">
 
 ---
 
@@ -8,7 +6,7 @@
 
 - 🤵 Interning at: [<img src="https://d2aj9sy12tbpym.cloudfront.net/javascripts/dist/assets/typo_logo-7f995bc8faf05bc72aad13c551d939ef.svg" alt="Progate" width="100px"/>](https://progate.com)
 
-- 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com)](https://studentambassadors.microsoft.com) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/)
+- 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com)](https://studentambassadors.microsoft.com) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&link=https://mlh.io/)](https://mlh.io/) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/)
 
 - 🔭 Have played around with: ![Xamarin.Forms](https://img.shields.io/badge/-Xamarin.Forms-blue?style=plastic&logo=xamarin&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft_Azure-azure?style=plastic&logo=microsoft-azure&logoColor=blue) ![.NET](http://img.shields.io/badge/-.NET-purple?style=plastic&logo=.Net&logoColor=white) ![C#](http://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-yellow?style=plastic&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb) ![Twilio](https://img.shields.io/badge/-Twilio-navy?style=plastic&logo=twilio)
 
