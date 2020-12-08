@@ -1,16 +1,14 @@
 <p align="center">
     <img src="Assets/Aditya.png" width="180">
 </p>
-
-<h2 style="text-align:center"> Hey there 👋 </h2>
-
-<h3 style="text-align:center"> I am Aditya Oberai (he/him)👦, a junior at Amity University🏫 and an student tech💻 and hackathon👨‍💻 community enthusiast💝 </h3>
+<h2 align="center"> Hey, I am Aditya Oberai (he/him)👋 </h2>
+<h3 align="center"> Student Tech💻 and Hackathon👨‍💻 Community Enthusiast💝 </h3>
 
 ---
 
 ### Experience 📈
 
-- 🤵 Interning at: [<img src="https://d2aj9sy12tbpym.cloudfront.net/javascripts/dist/assets/typo_logo-7f995bc8faf05bc72aad13c551d939ef.svg" alt="Progate" width="100px"/>](https://progate.com)
+- 🤵 Interning at: [<img src="https://gokansoichiro.com/wp/wp-content/uploads/2020/05/thumb-13.jpg" alt="Progate" width="100px"/>](https://progate.com)
 
 - 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com)](https://studentambassadors.microsoft.com) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&link=https://mlh.io/)](https://mlh.io/) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/)
 
