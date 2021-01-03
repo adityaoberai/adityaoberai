@@ -8,7 +8,7 @@
 
 ### Experience 📈
 
-- 🤵 Interning at: [<img src="https://gokansoichiro.com/wp/wp-content/uploads/2020/05/thumb-13.jpg" alt="Progate" width="100px"/>](https://progate.com)
+- 🤵 Interned at: [<img src="https://gokansoichiro.com/wp/wp-content/uploads/2020/05/thumb-13.jpg" alt="Progate" width="100px"/>](https://progate.com)
 
 - 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com)](https://studentambassadors.microsoft.com) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&link=https://mlh.io/)](https://mlh.io/) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/)
 
@@ -18,7 +18,7 @@
 
 - 🌱 Currently learning: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript) 
 
-- 📜 For more details, visit [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Oberai-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaoberai1/)](https://www.linkedin.com/in/adityaoberai1/)
+- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](https://adityaoberai.live)
 
 ---
 
