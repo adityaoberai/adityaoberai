@@ -9,7 +9,7 @@
 ### Experience 📈
 
 - 🤵 Interned at: [![Progate](http://img.shields.io/badge/-Progate-purple?style=plastic&logo=progate&logoColor=white&link=https://progate.com/)](https://progate.com/)
-- 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com)](https://studentambassadors.microsoft.com) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&logo=major-league-hacking&logoColor=265A8F&link=https://mlh.io/)](https://mlh.io/) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/)
+- 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/3686)](https://studentambassadors.microsoft.com/en-US/profile/3686) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&logo=major-league-hacking&logoColor=265A8F&link=https://mlh.io/)](https://mlh.io/) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/)
 
 - 🔭 Have played around with: ![Xamarin.Forms](https://img.shields.io/badge/-Xamarin.Forms-blue?style=plastic&logo=xamarin&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft_Azure-azure?style=plastic&logo=microsoft-azure&logoColor=blue) ![.NET](http://img.shields.io/badge/-.NET-purple?style=plastic&logo=.Net&logoColor=white) ![C#](http://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-red?style=plastic&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=plastic&amp;logo=mysql&amp;logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb) ![Twilio](https://img.shields.io/badge/-Twilio-navy?style=plastic&logo=twilio)
 
@@ -30,7 +30,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Aditya_Oberai-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)](https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)
 [![Medium Badge](https://img.shields.io/badge/-@adityaoberai1-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@adityaoberai1/)](https://medium.com/@adityaoberai1)
 [![Facebook Badge](https://img.shields.io/badge/-Aditya_Oberai-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/aoberai23)](https://www.facebook.com/aoberai23/)
-
+[![Dev Badge](https://img.shields.io/badge/-Aditya_Oberai-black?style=plastic&logo=dev.to&logoColor=white&link=https://dev.to/adityaoberai)](https://dev.to/adityaoberai)
 
 ---
 
