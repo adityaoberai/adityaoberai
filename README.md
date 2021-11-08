@@ -8,6 +8,7 @@
 
 ### Experience 📈
 
+- 👩‍💻 Working at: [![Appwrite](https://img.shields.io/badge/-Appwrite-f02e65?style=plastic&logo=Appwrite&logoColor=white)](https://appwrite.io)
 - 🤵 Interned at: [![Techdome Solutions](https://img.shields.io/badge/-Techdome_Solutions-blue?style=plastic&logo=Website&logoColor=white)](https://www.linkedin.com/company/techdome-solutions/) [![Progate](http://img.shields.io/badge/-Progate-purple?style=plastic&logo=progate&logoColor=white&link=https://progate.com/)](https://progate.com/)
 - 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/3686)](https://studentambassadors.microsoft.com/en-US/profile/3686) [![Major League Hacking](http://img.shields.io/badge/-Major_League_Hacking-white?style=plastic&logo=major-league-hacking&logoColor=265A8F&link=https://mlh.io/)](https://mlh.io/) [![Developer Student Club](https://img.shields.io/badge/-Developer_Student_Club_Amity_University-red?style=plastic&logo=google&logoColor=white&link=https://bit.ly/dsc-amity-discord)](https://bit.ly/dsc-amity-discord) [![.NET](http://img.shields.io/badge/-.NET_Foundation-purple?style=plastic&logo=.Net&logoColor=white&link=https://dotnetfoundation.org/)](https://dotnetfoundation.org/) [![Twilio](https://img.shields.io/badge/-Twilio_Champions-navy?style=plastic&logo=twilio)](https://twilio.com/champions)
 
