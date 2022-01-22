@@ -18,7 +18,7 @@
 
 - 🌱 Currently learning:  ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb) ![PHP](https://img.shields.io/badge/-PHP-black?style=plastic&amp;logo=php&amp;logoColor=white)
 
-- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](https://adityaoberai.live)
+- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](https://oberai.dev/)
 
 ---
 
