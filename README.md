@@ -43,3 +43,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaoberai&theme=algolia"/>
 </a>
 </p>
+
+---
+
+### Sponsors 💸
+
+Thank you so much to the following people for sponsoring me:
+
+
+| | Sponsor Name | GitHub Handle |
+|-|---------------|---------------|
+| <img src="https://avatars.githubusercontent.com/u/52964353?v=4" width="100"></img> | Aaishika Bhattarcharya | [@aaishikasb](https://github.com/aaishikasb) |
+
