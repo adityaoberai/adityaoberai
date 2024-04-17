@@ -54,4 +54,4 @@ Thank you so much to the following people for sponsoring me:
 | | Sponsor Name | GitHub Handle / Link | Active |
 |-|--------------|----------------------|--------|
 | <img src="https://pbs.twimg.com/profile_images/1680933996367151104/s4QB-X2m_400x400.jpg" width="100"> | AutoSEO | [getautoseo.com](https://getautoseo.com/image-alt-text-generator) | ✅ |
-| <img src="https://avatars.githubusercontent.com/u/52964353?v=4" width="100"></img> | Aaishika Bhattarcharya | [@aaishikasb](https://github.com/aaishikasb) | ❎ |
+| <img src="https://avatars.githubusercontent.com/u/52964353?v=4" width="100"></img> | Aaishika Bhattarcharya | [@aaishikasb](https://github.com/aaishikasb) | ❌ |
