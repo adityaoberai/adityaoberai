@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Assets/Aditya.png" width="180">
+    <img src="https://avatars.githubusercontent.com/u/31401437?v=4" width="180">
 </p>
 <h2 align="center"> Hey, I am Aditya Oberai (he/him)👋 </h2>
 <h3 align="center"> DevRel🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
@@ -53,5 +53,5 @@ Thank you so much to the following people for sponsoring me:
 
 | | Sponsor Name | GitHub Handle / Link | Active |
 |-|--------------|----------------------|--------|
-| <img src="https://pbs.twimg.com/profile_images/1680933996367151104/s4QB-X2m_400x400.jpg" width="100"> | AutoSEO | [getautoseo.com](https://getautoseo.com/image-alt-text-generator) | ✅ |
+| <img src="https://avatars.githubusercontent.com/u/152874588?s=200&v=4" width="100"> | AutoSEO | [@getAutoSEO](https://github.com/getAutoSEO) | ❌ |
 | <img src="https://avatars.githubusercontent.com/u/52964353?v=4" width="100"></img> | Aaishika Bhattarcharya | [@aaishikasb](https://github.com/aaishikasb) | ❌ |
