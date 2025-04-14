@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/31401437?v=4" width="180">
+    <img src="https://avatars.githubusercontent.com/u/31401437?v=4" style="border-radius: 90px; width: 180px;">
 </p>
 <h2 align="center"> Hey, I am Aditya Oberai (he/him)👋 </h2>
 <h3 align="center"> DevRel🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
