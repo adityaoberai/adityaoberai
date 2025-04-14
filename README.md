@@ -26,13 +26,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Oberai-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaoberai1/)](https://www.linkedin.com/in/adityaoberai1/)
 [![Instagram Badge](https://img.shields.io/badge/-adityaoberai1-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adityaoberai1/)](https://instagram.com/adityaoberai1)
-[![Twitter Badge](https://img.shields.io/badge/-adityaoberai1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaoberai1/)](https://twitter.com/adityaoberai1/)
+[![X Badge](https://img.shields.io/badge/-adityaoberai1-blue?style=plastic&logo=X&logoColor=white&link=https://twitter.com/adityaoberai1/)](https://twitter.com/adityaoberai1/)
 [![Gmail Badge](https://img.shields.io/badge/adityaoberai1@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Aditya_Oberai-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)](https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)
 [![Medium Badge](https://img.shields.io/badge/-@adityaoberai1-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@adityaoberai1/)](https://medium.com/@adityaoberai1)
-[![Facebook Badge](https://img.shields.io/badge/-Aditya_Oberai-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/aoberai23)](https://www.facebook.com/aoberai23/)
 [![Dev Badge](https://img.shields.io/badge/-Aditya_Oberai-black?style=plastic&logo=dev.to&logoColor=white&link=https://dev.to/adityaoberai)](https://dev.to/adityaoberai)
-[![Polywork Badge](https://img.shields.io/badge/-Aditya_Oberai-black?style=plastic&logo=polywork&logoColor=white&link=https://www.polywork.com/adityaoberai1)](https://www.polywork.com/adityaoberai1)
 
 ---
 
