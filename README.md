@@ -51,5 +51,6 @@ Thank you so much to the following people for sponsoring me:
 
 | | Sponsor Name | GitHub Handle / Link | Active |
 |-|--------------|----------------------|--------|
+| <img src="https://avatars.githubusercontent.com/u/15572034?v=4" width="100"> | Mukul Mantosh | [@mukulmantosh](https://github.com/mukulmantosh) | ✅ |
 | <img src="https://avatars.githubusercontent.com/u/152874588?s=200&v=4" width="100"> | AutoSEO | [@getAutoSEO](https://github.com/getAutoSEO) | ❌ |
 | <img src="https://avatars.githubusercontent.com/u/52964353?v=4" width="100"></img> | Aaishika Bhattarcharya | [@aaishikasb](https://github.com/aaishikasb) | ❌ |
