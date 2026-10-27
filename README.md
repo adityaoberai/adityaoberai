@@ -18,7 +18,7 @@
 
 - 🌱 Currently learning:  ![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript) ![Svelte](https://img.shields.io/badge/-Svelte-orange?style=plastic&logo=svelte&logoColor=white) 
 
-- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](https://oberai.dev) and subscribe to my newsletter [![another random community newsletter](https://img.shields.io/badge/-another_random_community_newsletter-orange?style=plastic&logo=substack&logoColor=white)](https://oberai.substack.com)
+- 📜 For more details, visit [![Website Badge](https://img.shields.io/badge/-My_Website-blue?style=plastic&logo=Website&logoColor=white)](https://adityaoberai.com) and subscribe to my newsletter [![another random community newsletter](https://img.shields.io/badge/-another_random_community_newsletter-orange?style=plastic&logo=substack&logoColor=white)](https://oberai.substack.com)
 
 ---
 
